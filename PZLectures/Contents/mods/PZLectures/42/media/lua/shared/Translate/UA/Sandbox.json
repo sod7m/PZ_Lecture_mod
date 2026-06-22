@@ -1,0 +1,19 @@
+{
+    "Sandbox_PZLectures": "PZ Lectures",
+    "Sandbox_PZLectures_MinimumTeacherLevel": "Мінімальний рівень навички викладача",
+    "Sandbox_PZLectures_MinimumTeacherLevel_tooltip": "Рівень навички зі вкладки «Створення», необхідний для проведення лекції з цієї навички. Стандартне значення: 6.",
+    "Sandbox_PZLectures_TargetLevel": "Цільовий повний рівень слухача",
+    "Sandbox_PZLectures_TargetLevel_tooltip": "Повний рівень обраної навички, від якого обчислюється кап лекції. Стандартне значення: 4.",
+    "Sandbox_PZLectures_TargetProgressPercent": "Прогрес до наступного рівня (%)",
+    "Sandbox_PZLectures_TargetProgressPercent_tooltip": "Додатковий прогрес після цільового повного рівня. 50 разом із рівнем 4 означає кап 4,5.",
+    "Sandbox_PZLectures_LectureRadius": "Радіус лекції (клітини)",
+    "Sandbox_PZLectures_LectureRadius_tooltip": "Максимальна відстань від викладача для запрошення та участі. Стандартне значення: 5.",
+    "Sandbox_PZLectures_InviteDurationSeconds": "Час на прийняття запрошення (секунди)",
+    "Sandbox_PZLectures_InviteDurationSeconds_tooltip": "Скільки часу гравці поблизу мають на прийняття запрошення. Стандартне значення: 10.",
+    "Sandbox_PZLectures_LectureDurationSeconds": "Тривалість лекції (секунди)",
+    "Sandbox_PZLectures_LectureDurationSeconds_tooltip": "Тривалість успішної лекції. Стандартне значення: 30.",
+    "Sandbox_PZLectures_MinimumListeners": "Мінімальна кількість слухачів",
+    "Sandbox_PZLectures_MinimumListeners_tooltip": "Мінімальна кількість слухачів для початку та продовження лекції. Стандартне значення: 1.",
+    "Sandbox_PZLectures_DebugLogging": "Увімкнути журнал налагодження",
+    "Sandbox_PZLectures_DebugLogging_tooltip": "Записувати детальні повідомлення PZ Lectures у консоль для тестування."
+}

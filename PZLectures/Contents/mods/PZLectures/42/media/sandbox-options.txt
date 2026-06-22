@@ -1,0 +1,80 @@
+VERSION = 1,
+
+option PZLectures.MinimumTeacherLevel
+{
+	type = integer,
+	min = 1,
+	max = 10,
+	default = 6,
+	page = PZLectures,
+	translation = PZLectures_MinimumTeacherLevel,
+}
+
+option PZLectures.TargetLevel
+{
+	type = integer,
+	min = 0,
+	max = 9,
+	default = 4,
+	page = PZLectures,
+	translation = PZLectures_TargetLevel,
+}
+
+option PZLectures.TargetProgressPercent
+{
+	type = integer,
+	min = 0,
+	max = 99,
+	default = 50,
+	page = PZLectures,
+	translation = PZLectures_TargetProgressPercent,
+}
+
+option PZLectures.LectureRadius
+{
+	type = integer,
+	min = 1,
+	max = 30,
+	default = 5,
+	page = PZLectures,
+	translation = PZLectures_LectureRadius,
+}
+
+option PZLectures.InviteDurationSeconds
+{
+	type = integer,
+	min = 3,
+	max = 60,
+	default = 10,
+	page = PZLectures,
+	translation = PZLectures_InviteDurationSeconds,
+}
+
+option PZLectures.LectureDurationSeconds
+{
+	type = integer,
+	min = 5,
+	max = 600,
+	default = 30,
+	page = PZLectures,
+	translation = PZLectures_LectureDurationSeconds,
+}
+
+option PZLectures.MinimumListeners
+{
+	type = integer,
+	min = 1,
+	max = 20,
+	default = 1,
+	page = PZLectures,
+	translation = PZLectures_MinimumListeners,
+}
+
+option PZLectures.DebugLogging
+{
+	type = boolean,
+	default = false,
+	page = PZLectures,
+	translation = PZLectures_DebugLogging,
+}
+

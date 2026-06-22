@@ -1,0 +1,8 @@
+name=PZ Lectures
+id=PZLectures
+description=PZ Lectures lets experienced survivors teach their teammates through group lectures. Choose a mastered Crafting skill, invite nearby survivors, and help them gain basic knowledge up to a configurable skill cap.
+author=Notem
+poster=poster.png
+pzversion=42.19
+versionMin=42.19.0
+modversion=0.2.0
