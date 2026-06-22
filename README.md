@@ -114,5 +114,5 @@ PZLectures/
 
 ## Author
 
-Created by **Notem**.
+Created by **sod7m**.
 
